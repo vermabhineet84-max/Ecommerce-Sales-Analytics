@@ -69,7 +69,6 @@ Ecommerce-Sales-Analytics/
 │
 ├── SQL/
 │   ├── database.sql
-│   ├── import_data.sql
 │   └── analysis_queries.sql
 │
 ├── Python/
