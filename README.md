@@ -93,7 +93,7 @@ Ecommerce-Sales-Analytics/
 
 # 📊 SQL Analysis
 
-The project contains **58+ SQL queries** covering:
+The project contains **40+ SQL queries** covering:
 
 - KPI Analysis
 - Product Analysis
